@@ -48,3 +48,54 @@ Private and advanced versions are intentionally excluded.
 This project is experimental and educational.
 It is **not financial advice**.
 Use at your own risk.
+---
+
+## FAQ
+
+### Is APEX a trading bot?
+No.  
+APEX does not execute trades.  
+It determines **when not to act** and when conditions are structurally favorable.
+
+---
+
+### Does APEX predict markets?
+No.  
+APEX does not predict outcomes.  
+It evaluates signal reliability under uncertainty.
+
+---
+
+### What problem does APEX solve?
+Most systems fail because they act too often in hostile conditions.  
+APEX prioritizes survivability, then performance.
+
+---
+
+### Who is APEX for?
+APEX is designed for:
+- system builders
+- quantitative thinkers
+- decision-makers operating under uncertainty
+
+It is not designed for quick-profit seekers.
+
+---
+
+### Is APEX limited to finance?
+No.  
+Finance is one application.  
+APEX is a general decision framework for hostile, noisy systems.
+
+---
+
+### Is this the full version of APEX?
+No.  
+This repository exposes the **public conceptual layer** only.  
+Other layers exist and are not public.
+
+---
+
+### Why is APEX public?
+Because structure matters more than secrecy.  
+APEX is about discipline, not hype.
